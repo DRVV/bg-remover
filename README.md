@@ -5,7 +5,6 @@ Remove backgrounds from MP4 videos using AI (U²-Net), with GPU acceleration.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/bg-remover.git
 cd bg-remover
 pip install -e .
 ```
